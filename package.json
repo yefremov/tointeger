@@ -1,0 +1,34 @@
+{
+  "name": "tointeger",
+  "version": "0.0.1",
+  "description": "Convert value to an integer value",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js | tap-spec",
+    "test-cov": "nyc npm test",
+    "report-cov": "nyc report --reporter=text-lcov | coveralls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yefremov/tointeger.git"
+  },
+  "keywords": [
+    "test",
+    "tointeger",
+    "integer",
+    "browser",
+    "node"
+  ],
+  "author": "Anton Yefremov <anton.yefremov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yefremov/tointeger/issues"
+  },
+  "homepage": "https://github.com/yefremov/tointeger#readme",
+  "devDependencies": {
+    "coveralls": "^2.12.0",
+    "nyc": "^10.1.2",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.6.3"
+  }
+}
