@@ -1,4 +1,4 @@
-# tointeger
+# tointeger [![Build Status](https://travis-ci.org/yefremov/tointeger.svg?branch=master)](https://travis-ci.org/yefremov/tointeger) [![npm version](https://badge.fury.io/js/tointeger.svg)](https://badge.fury.io/js/tointeger) [![Coverage Status](https://coveralls.io/repos/github/yefremov/tointeger/badge.svg?branch=master)](https://coveralls.io/github/yefremov/tointeger?branch=master)
 
 Convert value to an integer value.
 
