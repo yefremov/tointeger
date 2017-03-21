@@ -6,7 +6,7 @@
 module.exports = toInteger;
 
 /**
- * Convert `value` to integer.
+ * Convert `value` to an integer value.
  *
  * Please note that this is not an ecma262 "tointeger" implementation,
  * but just a safer version of what you usually want from `parseInt()`
