@@ -1,6 +1,6 @@
 {
   "name": "tointeger",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Convert value to an integer value",
   "main": "index.js",
   "scripts": {
